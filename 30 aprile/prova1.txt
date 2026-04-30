@@ -1,0 +1,2 @@
+Ciao, questo è un file di prova.
+Questa è la seconda riga del file.

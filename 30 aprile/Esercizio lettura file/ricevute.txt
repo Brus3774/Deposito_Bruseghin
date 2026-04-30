@@ -1,0 +1,27 @@
+RICEVUTA DI ACQUISTO
+Cliente: Mario Rossi (mario.rossi@email.com) - ID: 1028
+Prodotto: sedie
+Totale: € 98.00
+
+RICEVUTA DI ORDINE
+Cliente: Mario Rossi (mario.rossi@email.com) - ID: 1028
+Prodotto: armadio
+Totale: € 500.00
+Consegna: 11/08/2026
+
+RICEVUTA DI ACQUISTO
+Cliente: Mario Rossi (mario.rossi@email.com) - ID: 5918
+Prodotto: cioccolato 
+Totale: € 9.00
+
+RICEVUTA DI ACQUISTO
+Cliente: Mario Rossi (mario.rossi@email.com) - ID: 5918
+Prodotto: salame
+Totale: € 12.00
+
+RICEVUTA DI ORDINE
+Cliente: davide  Bruseghin (dv11br@libero.it) - ID: 4099
+Prodotto: poster decorativi
+Totale: € 45.00
+Consegna: 10/06/2026
+
