@@ -1,0 +1,10 @@
+
+REPORT ANALITICO
+Totale Vendite: 4877.00€
+Media Periodo:  541.89€
+Giorni con vendite sopra la media:
+Giorno 4: 660.00€
+Giorno 6: 589.00€
+Giorno 7: 690.00€
+Giorno 8: 790.00€
+Giorno 9: 810.00€
