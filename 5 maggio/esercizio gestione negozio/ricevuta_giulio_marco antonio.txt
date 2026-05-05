@@ -1,0 +1,9 @@
+=== RICEVUTA PERSONALE ===
+CLIENTE: MARCO ANTONIO GIULIO
+EMAIL:   MarcAntGiulii@live.it
+-----------------------------------
+- Mixer           | Prezzo: 150€
+-----------------------------------
+TOTALE COMPLESSIVO: 150€
+
+Grazie per aver scelto il nostro negozio!

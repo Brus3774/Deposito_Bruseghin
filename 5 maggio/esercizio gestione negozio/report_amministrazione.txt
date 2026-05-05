@@ -1,0 +1,23 @@
+       REPORT GLOBALE AMMINISTRAZIONE     
+- STATO CORRENTE INVENTARIO -
+ID: Casse acustiche | Q.tà: 9     | Prezzo: 100€
+ID: Cuffie          | Q.tà: 20    | Prezzo: 50€
+ID: Microfono       | Q.tà: 14    | Prezzo: 80€
+ID: Mixer           | Q.tà: 4     | Prezzo: 150€
+ID: Amplificatore   | Q.tà: 3     | Prezzo: 200€
+ID: dolby surround  | Q.tà: 4     | Prezzo: 450.0€
+
+========================================
+
+- DETTAGLIO VENDITE -
+CLIENTE: jack sparrow (Jsparrow@gmail.com)
+  > Casse acustiche: 100€
+  > Microfono: 80€
+--------------------
+CLIENTE: Marco Antonio Giulio (MarcAntGiulii@live.it)
+  > Mixer: 150€
+--------------------
+
+>>> GUADAGNI TOTALI AZIENDALI: 330€ <<<
+
+Fine Report.

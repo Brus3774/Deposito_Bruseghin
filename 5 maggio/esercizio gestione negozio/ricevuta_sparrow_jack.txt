@@ -1,0 +1,10 @@
+=== RICEVUTA PERSONALE ===
+CLIENTE: JACK SPARROW
+EMAIL:   Jsparrow@gmail.com
+-----------------------------------
+- Casse acustiche | Prezzo: 100€
+- Microfono       | Prezzo: 80€
+-----------------------------------
+TOTALE COMPLESSIVO: 180€
+
+Grazie per aver scelto il nostro negozio!

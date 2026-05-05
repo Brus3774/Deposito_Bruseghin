@@ -1,0 +1,11 @@
+=== REGISTRO MAGAZZINO ===
+PRODOTTO        | PREZZO   | QUANTITA  
+----------------------------------------
+Casse acustiche |    100€   |        9
+Cuffie          |     50€   |       20
+Microfono       |     80€   |       14
+Mixer           |    150€   |        4
+Amplificatore   |    200€   |        3
+dolby surround  |  450.0€   |        4
+----------------------------------------
+Ultimo aggiornamento: 6 articoli totali.
