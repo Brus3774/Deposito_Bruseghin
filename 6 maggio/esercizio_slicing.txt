@@ -1,0 +1,8 @@
+ ESERCIZIO NUMPY SLICING 
+
+Array Originale: [17 14 44 44 17 24 32 28 10 40 44 35 35 45 45 28 13 28 21 13]
+Primi 10 elementi: [17 14 44 44 17 24 32 28 10 40]
+Ultimi 5 elementi: [28 13 28 21 13]
+Indici 5-15: [24 32 28 10 40 44 35 35 45 45]
+Ogni terzo elemento: [17 44 32 40 35 28 21]
+Array Modificato (5-10 = 99): [17 14 44 44 17 99 99 99 99 99 44 35 35 45 45 28 13 28 21 13]
