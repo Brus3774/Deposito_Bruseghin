@@ -1,0 +1,11 @@
+codice,nome,tipo,famiglia,prezzo,quantita,fatturato
+PA004,Papillon Luxury,Papillon,Componente finitura,70.82,7,495.74
+PO001,Pochette Slim,Pochette,Componente finitura,106.42,6,638.52
+G004,Giacca Oxford,Giacca,Capo principale,574.64,1,574.64
+G003,Giacca Torino,Giacca,Capo principale,895.46,3,2686.38
+PA002,Papillon Essential,Papillon,Componente finitura,112.31,7,786.17
+PA004,Papillon Luxury,Papillon,Componente finitura,70.82,8,566.56
+PA004,Papillon Luxury,Papillon,Componente finitura,70.82,10,708.2
+P002,Pantalone Torino,Pantalone,Capo principale,123.35,9,1110.15
+P002,Pantalone Torino,Pantalone,Capo principale,123.35,6,740.1
+P001,Pantalone Oxford,Pantalone,Capo principale,271.57,3,814.71
