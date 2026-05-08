@@ -1,0 +1,6 @@
+id,nome,categoria,prezzo,quantita
+1,Sedia,Casa,45.0,12
+2,tavolo,casa,330.0,4
+3,vaso,esterni,12.0,15
+4,innaffiatore,esterni,25.0,4
+6,pala,esterni,11.9,11
