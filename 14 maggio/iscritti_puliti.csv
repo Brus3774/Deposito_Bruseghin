@@ -1,0 +1,11 @@
+Nome,Età,Citta,Tipo_Abbonamento,Attivo,Categoria Età
+Valentina,30.0,Napoli,Family,True,Adulto
+Matteo,62.0,Napoli,Base,False,Senior
+Matteo,40.888888888888886,Napoli,Premium,True,Adulto
+Luca,19.0,Milano,Base,False,Adulto
+Chiara,61.0,Napoli,Family,True,Senior
+Giuseppe,48.0,Roma,Base,False,Senior
+Chiara,30.0,Roma,Family,True,Adulto
+Giuseppe,40.0,Napoli,Family,True,Adulto
+Giuseppe,52.0,Roma,Family,True,Senior
+Sara,26.0,Roma,Premium,True,Adulto

@@ -1,0 +1,11 @@
+Nome,Età,Citta,Tipo_Abbonamento,Attivo,Categoria Età,Costo_Mensile,Costo_Annuale
+Valentina,30.0,Napoli,Family,True,Adulto,100.0,1200.0
+Matteo,62.0,Napoli,Base,False,Senior,40.0,480.0
+Matteo,40.888888888888886,Napoli,Premium,True,Adulto,70.0,840.0
+Luca,19.0,Milano,Base,False,Adulto,40.0,480.0
+Chiara,61.0,Napoli,Family,True,Senior,100.0,1200.0
+Giuseppe,48.0,Roma,Base,False,Senior,40.0,480.0
+Chiara,30.0,Roma,Family,True,Adulto,100.0,1200.0
+Giuseppe,40.0,Napoli,Family,True,Adulto,100.0,1200.0
+Giuseppe,52.0,Roma,Family,True,Senior,100.0,1200.0
+Sara,26.0,Roma,Premium,True,Adulto,70.0,840.0
